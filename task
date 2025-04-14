@@ -1,0 +1,166 @@
+    1 sudo apt update
+    2  sudo apt upgrate -y
+    3  sudo apt upgrade -y
+    4  shutdown -r now
+    5  uname -r
+    6  sudo apt update
+    7  sudo apt install chromium -y
+    8  cd
+    9  sudo rm /etc/apt/preferences.d/nosnap.pref
+   10  sudo apt update
+   11  sudo apt install snapd snapd-xdg-open
+   12  sudo systemctl restart snapd
+   13  sudo systemctl status snapd
+   14  sudo systemctl status snapd~
+   15  sudo systemctl status snapd
+   16  sudo systemctl restart snapd
+   17  sudo systemctl status snapd
+   18  sudo systemctl restart snapd
+   19  sudo systemctl status snapd
+   20  sudo snap install pycharm-community --classic
+   21  sudo apt-get install python3-setuptools python3-pip python3-tk python3-venv git -y
+   22  shutdown -P now
+   23  history
+   24  sudo apt update && sudo apt-get install python3-setuptools python3-pip python3-tk python3-venv git -y
+   25  shutdown -P now
+   26  history
+   27  ps
+   28  mkdir mytest
+   29  mkdir myenv
+   30  cd myenv
+   31  python3 -m venv myenv
+   32  cd 
+   33  mkdir bin
+   34  cd bin
+   35  nano myenv.sh
+   36  chmod +x myenv.sh
+   37  cd
+   38  nano .bashsrc
+   39  nano .bashrc
+   40  source .bashrc
+   41  . myenv.sh
+   42  pip3 install ipython
+   43  ipython
+   44  pip3 install jupiter notebook
+   45  pip3 install jupiter.notebook
+   46  pip3 install jupiternotebook
+   47  pip3 install jupyter notebook
+   48  deactivate
+   49  shutdown -P now
+   50  mkdir mytest
+   51  mkdir newtest
+   52  cd newtest
+   53  git config --list
+   54  git config --global user.name tonya13
+   55  git config --list
+   56  git config --global user.email naumenkoton@yandex.ru
+   57  git config --global color.ui true
+   58  git config --list
+   59  git init
+   60  code .
+   61  git status
+   62  git add .
+   63  git status
+   64  git commit -m "added sum"
+   65  git status
+   66  git add .
+   67  git commit -m "added minus"
+   68  git log --oneline
+   69  mkdir tmp
+   70  git status
+   71  git add .
+   72  git commit -m "added .gitignore"
+   73  git log --oneline
+   74  git branch
+   75  git branch readme
+   76  git branch
+   77  git checkout readme
+   78  git checkout master
+   79  git branch
+   80  git merge readme
+   81  git checkout master
+   82  git checkout readmin
+   83  git add .
+   84  git commit -m "added readme"
+   85  git log --oneline
+   86  ssh-keygen
+   87  rm id_rsa.pub
+   88  git status
+   89  cd
+   90  cp ~/.ssh/id_rsa.pub
+   91  cp ~/.ssh/id_rsa.pub .
+   92  cd newtest/
+   93  rm 1 1.pub
+   94  git status
+   95  cd
+   96  ssh-keygen
+   97  cp ~/.ssh/id_rsa.pub .
+   98  cd newtest
+   99  git remote add origin git@github.com:tonya13/newtest.git
+  100  git remote set-url origin git@github.com:tonya13/newtest.git
+  101  git push -u origin master
+  102  shutdown - P now
+  103  shut down - P now
+  104  cd
+  105  shut down - P now
+  106  shutdown - P now
+  107  mkdir pi321echo
+  108  shutdown -P now
+  109  git clone git@github.com:fa-python-network/3_Parallelism.git
+  110  git remote add origin git@github.com:tonya13/pi23.git
+  111  cd
+  112  cd matrix
+  113  mkdir matrix
+  114  cd matrix
+  115  git clone git@github.com:fa-python-network/3_Parallelism.git
+  116  git remote remove origin
+  117  ls
+  118  cd 
+  119  sudo rm -rf matrix
+  120  mkdir matrix
+  121  cd matrix
+  122  git clone git@github.com:fa-python-network/3_Parallelism.git .
+  123  ls
+  124  git remote remove origin
+  125  git remote add origin git@github.com:tonya13/pi23.git
+  126  git remote set-url origin git@github.com:tonya13/pi23.git
+  127  git config --list
+  128  git push -u origin master
+  129  code .
+  130  history
+  127  python3 server.py
+  128  git status
+  129  git add /
+  130  git add .
+  131  gir commit -m "1 zadanie thread simple"
+  132  git push
+  133  python3 server.py
+  134  git status
+  135  git add .
+  136  git commit -m "2 zadanie. correct shutdown"
+  137  git push
+  138  git status
+  139  git add .
+  140  git commit -m "3 zadanie - potok driver"
+  141  git push
+  142  python3 server.py
+  143  ls
+  144  cat identification.txt
+  145  cat.server.log
+  146  python3 scanner.py
+  147  git status
+  148  git add .
+  149  git log --oneline
+  150  git commit -m "4 zadanie port scanner"
+  151  git push
+  152  pip3 install tqdm
+  153  code .
+  154  python3 scanner.py
+  155  git status
+  156  git add .
+  157  git log --oneline
+  158  git status
+  159  git commit -m "5 port scanner. added status bar"
+  160  git push
+  161  git log --oneline
+  162  history
